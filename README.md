@@ -1,2 +1,2 @@
 # func_prog
-learning functional programming - elixir and phoenix
+learning functional programming with elixir and phoenix
